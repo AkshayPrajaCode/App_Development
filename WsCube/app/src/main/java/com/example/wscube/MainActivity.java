@@ -20,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
 
         recyclerView = findViewById(R.id.recyleContactPooja);
 
-
         recyclerView.setLayoutManager(new LinearLayoutManager(MainActivity.this,LinearLayoutManager.VERTICAL,false));
 
 
